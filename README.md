@@ -45,4 +45,7 @@ Berikut adalah tutorial singkat tentang cara menggunakan GitHub:
     - Jika Anda lebih nyaman menggunakan command line, Anda juga dapat menggunakan Git langsung melalui terminal atau command prompt[3].
     - GitHub menyediakan dokumentasi yang lengkap tentang cara menggunakan Git melalui command line[3].
 
+![gambar](screenshoot/ss1.png)
+![gambar](screenshoot/ss2.png)
+
 
